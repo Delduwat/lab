@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "T'as pas le droit de push frérot."
+exit 1
